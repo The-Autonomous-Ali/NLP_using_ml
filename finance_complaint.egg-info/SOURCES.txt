@@ -1,0 +1,8 @@
+README.md
+setup.py
+finance_complaint/__init__.py
+finance_complaint.egg-info/PKG-INFO
+finance_complaint.egg-info/SOURCES.txt
+finance_complaint.egg-info/dependency_links.txt
+finance_complaint.egg-info/requires.txt
+finance_complaint.egg-info/top_level.txt
